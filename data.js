@@ -83,7 +83,7 @@ var APP_DATA = {
           "yaw": 0.1553164180159925,
           "pitch": 0.3179984805920011,
           "title": "Ecksofa TYME",
-          "text": "<a target='_blank' href=\"https://de.mycs.com/sofa-tyme//rVXW6qRUb\">Im Konfigurator öffnen</a>"
+          "text": "<a target='_blank' href=\"https://de.mycs.com/sofa-tyme/rVXW6qRUb\">Im Konfigurator öffnen</a>"
         },
         {
           "yaw": -1.4512188196840157,
@@ -95,7 +95,7 @@ var APP_DATA = {
           "yaw": -0.9844304874310446,
           "pitch": 0.3703408283230587,
           "title": "Beistelltisch SYDE",
-          "text": "<a target='_blank' href=\"https://de.mycs.com/beistelltisch/ziWipbYAv\">Im Konfigurator öffnen</a>"
+          "text": "<a target='_blank' href=\"https://de.mycs.com/beistelltisch/pHuYhpWfe\">Im Konfigurator öffnen</a>"
         },
         {
           "yaw": 0.7971601511693596,
